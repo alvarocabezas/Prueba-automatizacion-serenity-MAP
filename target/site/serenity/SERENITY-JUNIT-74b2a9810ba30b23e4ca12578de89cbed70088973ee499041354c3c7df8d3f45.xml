@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Technical project" skipped="0" tests="1" time="0.74" timestamp="2022-10-15 05:31:47"><testcase name="registration in the system"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.choucair.prueba.stepdefinations.pruebaStepDefinations.thatAlvaroWantsToEnterTheUserRegistrationUrl(pruebaStepDefinations.java:24)&#13;
+✽.that Alvaro wants to enter the user registration url(src/test/resources/features/prueba.feature:7)&#13;
+</system-err></testcase></testsuite>
